@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3DmokpYguNIFjBIEtl23VDXGf3vTPSpyLjsReU9C4xNsBA2Tq8Tig9x8i+VA0Ib0tXTQwy6rk+LwolQJvymc2Q==",
+  "success": true,
+  "projectFilePath": "D:\\github.com\\bitrsky\\AsyncCase\\AsyncCase\\AsyncCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhiweigao\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\zhiweigao\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

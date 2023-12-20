@@ -1,0 +1,13 @@
+D:\github.com\bitrsky\AsyncCase\AsyncCase\bin\Debug\net472\AsyncCase.exe.config
+D:\github.com\bitrsky\AsyncCase\AsyncCase\bin\Debug\net472\AsyncCase.exe
+D:\github.com\bitrsky\AsyncCase\AsyncCase\bin\Debug\net472\AsyncCase.pdb
+D:\github.com\bitrsky\AsyncCase\AsyncCase\obj\Debug\net472\AsyncCase.csproj.AssemblyReference.cache
+D:\github.com\bitrsky\AsyncCase\AsyncCase\obj\Debug\net472\AsyncCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\github.com\bitrsky\AsyncCase\AsyncCase\obj\Debug\net472\AsyncCase.AssemblyInfoInputs.cache
+D:\github.com\bitrsky\AsyncCase\AsyncCase\obj\Debug\net472\AsyncCase.AssemblyInfo.cs
+D:\github.com\bitrsky\AsyncCase\AsyncCase\obj\Debug\net472\AsyncCase.csproj.CoreCompileInputs.cache
+D:\github.com\bitrsky\AsyncCase\AsyncCase\obj\Debug\net472\AsyncCase.exe
+D:\github.com\bitrsky\AsyncCase\AsyncCase\obj\Debug\net472\AsyncCase.pdb
+D:\github.com\bitrsky\AsyncCase\AsyncCase\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\github.com\bitrsky\AsyncCase\AsyncCase\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\github.com\bitrsky\AsyncCase\AsyncCase\obj\Debug\net472\AsyncCase.csproj.CopyComplete
